@@ -19,3 +19,5 @@ my_array[1], my_array[3] = 100, 200
 a = 10
 b = 20
 a,b = b,a
+puts a
+puts b
