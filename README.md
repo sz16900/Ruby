@@ -4,3 +4,4 @@ A curated list of all things Ruby as part of the Microverse curricullum to learn
 ## Resources 
 - Codecademy
 - Odin Project
+- Rails
